@@ -46,7 +46,6 @@
 		03530A5914F0985A002E9A5E = {
 			isa = PBXGroup;
 			children = (
-				03530C0214F09DF6002E9A5E /* RSTrixiePlugin.framework */,
 				03530A6D14F0985B002E9A5E /* ActionMouseUp */,
 				03530A6614F0985A002E9A5E /* Frameworks */,
 				03530A6514F0985A002E9A5E /* Products */,
@@ -64,6 +63,7 @@
 		03530A6614F0985A002E9A5E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				03530C0214F09DF6002E9A5E /* RSTrixiePlugin.framework */,
 				03530A6714F0985A002E9A5E /* Cocoa.framework */,
 				03530A6914F0985B002E9A5E /* Other Frameworks */,
 			);
@@ -294,6 +294,7 @@
 				03530A7814F0985B002E9A5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
