@@ -47,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				03530A6D14F0985B002E9A5E /* ActionMouseUp */,
+				03530A6E14F0985B002E9A5E /* Supporting Files */,
 				03530A6614F0985A002E9A5E /* Frameworks */,
 				03530A6514F0985A002E9A5E /* Products */,
 			);
@@ -83,7 +84,6 @@
 		03530A6D14F0985B002E9A5E /* ActionMouseUp */ = {
 			isa = PBXGroup;
 			children = (
-				03530A6E14F0985B002E9A5E /* Supporting Files */,
 				03530BFF14F09DC4002E9A5E /* ActionMouseUp.h */,
 				03530C0014F09DC4002E9A5E /* ActionMouseUp.m */,
 				03530C2714F0A1E4002E9A5E /* ActionMouseUp.xib */,
@@ -99,6 +99,7 @@
 				03530A7314F0985B002E9A5E /* ActionMouseUp-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			path = ActionMouseUp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
